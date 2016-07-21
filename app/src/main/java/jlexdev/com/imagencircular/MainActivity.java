@@ -9,11 +9,11 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.widget.ImageView;
 
+/** FUENTE:
+ *
+ *  http://xurxodeveloper.blogspot.pe/2015/04/android-tip-como-crear-imagenes-circulares.html
+ */
 public class MainActivity extends AppCompatActivity {
-
-    /** FUENTE:
-     * http://xurxodeveloper.blogspot.pe/2015/04/android-tip-como-crear-imagenes-circulares.html
-     */
 
     private Drawable originalDrawable;
     private ImageView imagen;
